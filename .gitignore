@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# C/C++ build files
+build/
+cmake-build-*/
+*.o
+*.so
+*.a
+*.exe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Data and generated output
+results/
+output/
+*.vtk
+*.vtu
+*.h5
+*.xdmf
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
